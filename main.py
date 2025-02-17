@@ -1,5 +1,5 @@
 import sqlite_lib as sl
-from FoodProduct import FoodProduct
+from food_product import FoodProduct
 from datetime import datetime
 
 def main():
